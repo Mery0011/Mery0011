@@ -1,16 +1,17 @@
 <div align="center">
 
-Hi, It is Mery~ 🔭 I’m currently working on Full-stack web development projects and building real-world applications.
+Hi, It is Mery~ 🔭 I’m a Software Engineer focused on building real-world web applications and creating clean, scalable, and maintainable software.
 
-👯 I’m looking to collaborate on Web development projects where I can learn, contribute, and grow as a developer.
+👯 I’m looking to collaborate on Web development projects where I can contribute, solve problems, and grow as a developer.
 
-🤝 I’m looking for help with Improving my backend development skills, software architecture, and writing clean, maintainable code.
+🤝 I’m passionate about backend development, software architecture, clean code, and building reliable applications.
 
-🌱 I’m currently learning Next.js, React, TypeScript, Node.js, NestJS, GraphQL, Apollo Client, MongoDB, and SCSS.
+🌱 I work with technologies including Next.js, React, TypeScript, Node.js, NestJS, GraphQL, Apollo Client, MongoDB, and SCSS.
 
-💬 Ask me about Web development, my learning journey, and the projects I’m currently building.
+💬 Ask me about Web development, backend engineering, software architecture, and the projects I’m currently building.
 
-⚡ Fun fact I’m learning Korean 🇰🇷 while learning IT 💻 — two completely different languages at the same time!
+⚡ Fun fact: I’m learning Korean 🇰🇷 while building software 💻 — two completely different languages at the same time!
+
 
 # 💻 Tech Stack:
 

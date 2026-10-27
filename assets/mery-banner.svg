@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Hi, it’s Mery.</title>
+<desc id="desc">Software Engineer &amp; AI Engineer. Thoughtful code. Intelligent solutions. A little curiosity.</desc>
+<defs><linearGradient id="lavender" x2="1" y2="0.4"><stop stop-color="#eee4fc"/><stop offset="0.85" stop-color="#f8e9f1"/><stop offset="1" stop-color="#f4ebfc"/></linearGradient></defs>
+<rect width="1200" height="380" rx="12" fill="url(#lavender)"/>
+<g text-anchor="middle" fill="#594269">
+<text x="600" y="66" font-family="Arial, sans-serif" font-size="15" letter-spacing="5">A LITTLE CORNER OF MY WORLD</text>
+<text x="600" y="160" font-family="Georgia, 'Times New Roman', serif" font-size="80" font-style="italic">Hi, it’s Mery.</text>
+<text x="600" y="213" font-family="Arial, sans-serif" font-size="25" letter-spacing="1">Software Engineer &amp; AI Engineer</text>
+<text x="600" y="260" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic" fill="#795c8b">Thoughtful code. Intelligent solutions. A little curiosity.</text>
+<text x="600" y="330" font-family="Georgia, serif" font-size="35" letter-spacing="16" fill="#9776af">✧ ❀ ✧</text>
+</g>
+</svg>

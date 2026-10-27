@@ -1,40 +1,58 @@
 <div align="center">
-Hi, It’s Mery. I’m a Software Engineer focused on building real-world web applications with clean, scalable, and maintainable code. I’m open to collaborating on web development projects where I can contribute, solve problems, and grow as a developer. I’m passionate about backend development, software architecture, clean code, and building reliable applications. I work with Next.js, React, TypeScript, Node.js, NestJS, GraphQL, Apollo Client, MongoDB, and SCSS. I’m interested in web development, backend engineering, software architecture, and clean code. Fun fact: I’m learning Korean while building software — two completely different languages at the same time.
 
-# 💻 Tech Stack:
+![Hi, it’s Mery. Software Engineer & AI Engineer](./assets/mery-banner.svg)
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+</div>
 
-# 📊 GitHub Stats:
+### 01 &nbsp; A little about me 🪻
 
-![](https://github-readme-stats.shion.dev/api?username=Mery0011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+I build **web applications and AI-powered solutions** with care — focusing on clean architecture, reliable systems, and the details that make them work well.
 
-![](https://streak-stats.demolab.com/?user=Mery0011&theme=dark&hide_border=false)
+I’m open to collaborating on web and AI projects where I can contribute, solve meaningful problems, and keep growing.
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mery0011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 02 &nbsp; Tools I work with ✨
 
-### ✍️ Random Dev Quote
+**Frontend**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![React](https://img.shields.io/badge/React-EFE6F8?style=flat-square&logo=react&logoColor=684A82)
+![Next.js](https://img.shields.io/badge/Next.js-EFE6F8?style=flat-square&logo=nextdotjs&logoColor=684A82)
+![TypeScript](https://img.shields.io/badge/TypeScript-EFE6F8?style=flat-square&logo=typescript&logoColor=684A82)
+![JavaScript](https://img.shields.io/badge/JavaScript-EFE6F8?style=flat-square&logo=javascript&logoColor=684A82)
+![SCSS](https://img.shields.io/badge/SCSS-EFE6F8?style=flat-square&logo=sass&logoColor=684A82)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-EFE6F8?style=flat-square&logo=bootstrap&logoColor=684A82)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-F5E8EF?style=flat-square&logo=nodedotjs&logoColor=89526E)
+![NestJS](https://img.shields.io/badge/NestJS-F5E8EF?style=flat-square&logo=nestjs&logoColor=89526E)
+![GraphQL](https://img.shields.io/badge/GraphQL-F5E8EF?style=flat-square&logo=graphql&logoColor=89526E)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-F5E8EF?style=flat-square&logo=apollographql&logoColor=89526E)
+![MongoDB](https://img.shields.io/badge/MongoDB-F5E8EF?style=flat-square&logo=mongodb&logoColor=89526E)
+
+**AI & Data**
+
+![Python](https://img.shields.io/badge/Python-EAEAF9?style=flat-square&logo=python&logoColor=59588B)
+![PyTorch](https://img.shields.io/badge/PyTorch-EAEAF9?style=flat-square&logo=pytorch&logoColor=59588B)
+![NumPy](https://img.shields.io/badge/NumPy-EAEAF9?style=flat-square&logo=numpy&logoColor=59588B)
+![pandas](https://img.shields.io/badge/pandas-EAEAF9?style=flat-square&logo=pandas&logoColor=59588B)
+
+**Also in my toolkit**
+
+![Apollo Client](https://img.shields.io/badge/Apollo_Client-F0EDF4?style=flat-square&logo=apollographql&logoColor=71627F)
+![Yarn](https://img.shields.io/badge/Yarn-F0EDF4?style=flat-square&logo=yarn&logoColor=71627F)
+![Git](https://img.shields.io/badge/Git-F0EDF4?style=flat-square&logo=git&logoColor=71627F)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F0EDF4?style=flat-square&logo=githubactions&logoColor=71627F)
+![Figma](https://img.shields.io/badge/Figma-F0EDF4?style=flat-square&logo=figma&logoColor=71627F)
+
+### 03 &nbsp; Beyond the code 🌷
+
+> I’m learning Korean while building software.<br>
+> Two different languages. The same curiosity.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Mery0011&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Built with care. Always growing. ♡*
 
 </div>

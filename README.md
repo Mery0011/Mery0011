@@ -54,6 +54,8 @@ I’m open to collaborating on web and AI projects where I can contribute, solve
 > I’m learning Korean while building software.<br>
 > Two different languages. The same curiosity.
 
+![A little thought for today — updated daily](./assets/daily-quote.svg)
+
 ---
 
 <div align="center">

@@ -37,6 +37,7 @@ I’m open to collaborating on web and AI projects where I can contribute, solve
 ![NumPy](https://img.shields.io/badge/NumPy-EAEAF9?style=flat-square&logo=numpy&logoColor=59588B)
 ![pandas](https://img.shields.io/badge/pandas-EAEAF9?style=flat-square&logo=pandas&logoColor=59588B)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-EAEAF9?style=flat-square&logo=googlecolab&logoColor=59588B)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-EAEAF9?style=flat-square)
 
 **Also in my toolkit**
 
@@ -45,6 +46,8 @@ I’m open to collaborating on web and AI projects where I can contribute, solve
 ![Git](https://img.shields.io/badge/Git-F0EDF4?style=flat-square&logo=git&logoColor=71627F)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F0EDF4?style=flat-square&logo=githubactions&logoColor=71627F)
 ![Figma](https://img.shields.io/badge/Figma-F0EDF4?style=flat-square&logo=figma&logoColor=71627F)
+![AWS](https://img.shields.io/badge/AWS-F0EDF4?style=flat-square)
+![Amazon Lightsail](https://img.shields.io/badge/Amazon_Lightsail-F0EDF4?style=flat-square)
 
 ### 03 &nbsp; Beyond the code 🌷
 

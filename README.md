@@ -23,6 +23,7 @@ I’m open to collaborating on web and AI projects where I can contribute, solve
 
 **Backend**
 
+![REST API](https://img.shields.io/badge/REST_API-F5E8EF?style=flat-square&logoColor=89526E)
 ![Node.js](https://img.shields.io/badge/Node.js-F5E8EF?style=flat-square&logo=nodedotjs&logoColor=89526E)
 ![NestJS](https://img.shields.io/badge/NestJS-F5E8EF?style=flat-square&logo=nestjs&logoColor=89526E)
 ![GraphQL](https://img.shields.io/badge/GraphQL-F5E8EF?style=flat-square&logo=graphql&logoColor=89526E)
@@ -35,6 +36,7 @@ I’m open to collaborating on web and AI projects where I can contribute, solve
 ![PyTorch](https://img.shields.io/badge/PyTorch-EAEAF9?style=flat-square&logo=pytorch&logoColor=59588B)
 ![NumPy](https://img.shields.io/badge/NumPy-EAEAF9?style=flat-square&logo=numpy&logoColor=59588B)
 ![pandas](https://img.shields.io/badge/pandas-EAEAF9?style=flat-square&logo=pandas&logoColor=59588B)
+![Google Colab](https://img.shields.io/badge/Google_Colab-EAEAF9?style=flat-square&logo=googlecolab&logoColor=59588B)
 
 **Also in my toolkit**
 

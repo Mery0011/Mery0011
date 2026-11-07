@@ -38,6 +38,7 @@ I’m open to collaborating on web and AI projects where I can contribute, solve
 ![pandas](https://img.shields.io/badge/pandas-EAEAF9?style=flat-square&logo=pandas&logoColor=59588B)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-EAEAF9?style=flat-square&logo=googlecolab&logoColor=59588B)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-EAEAF9?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-EAEAF9?style=flat-square&logo=qdrant&logoColor=59588B)
 
 **Also in my toolkit**
 

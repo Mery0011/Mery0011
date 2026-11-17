@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="82" viewBox="0 0 850 82" role="img" aria-labelledby="title desc">
   <title id="title">A little thought for today</title>
-  <desc id="desc">The details you care about become the work you love.</desc>
-  <metadata>Asia/Seoul date: 2026-11-17. Original thoughts, rotating daily.</metadata>
+  <desc id="desc">A quiet hour of learning can open a new door.</desc>
+  <metadata>Asia/Seoul date: 2026-11-18. Original thoughts, rotating daily.</metadata>
   <defs>
     <linearGradient id="lavender" x2="1" y2="0">
       <stop stop-color="#f1e8fb"/>
@@ -10,5 +10,5 @@
   </defs>
   <rect width="850" height="82" rx="8" fill="url(#lavender)"/>
   <text x="425" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" letter-spacing="3" fill="#8c6c9f">A LITTLE THOUGHT FOR TODAY</text>
-  <text x="425" y="57" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="21" fill="#715184">The details you care about become the work you love.</text>
+  <text x="425" y="57" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="21" fill="#715184">A quiet hour of learning can open a new door.</text>
 </svg>

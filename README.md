@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hi, it’s Mery. Software Engineer & AI Engineer — lavender neural AI banner](./assets/mery-ai-banner.png)
+![Mery — Software Engineer & AI Engineer, with a violet neural brain on a subtle light background](./assets/mery-ai-banner-light.png)
 
 </div>
 

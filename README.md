@@ -12,43 +12,34 @@ I’m open to collaborating on web and AI projects where I can contribute, solve
 
 ### 02 &nbsp; Tools I work with ✨
 
-**Frontend**
+<p align="left">
+  <img src="./assets/tech/python.svg" width="42" height="42" alt="Python" title="Python" />&nbsp;
+  <img src="./assets/tech/pytorch.svg" width="42" height="42" alt="PyTorch" title="PyTorch" />&nbsp;
+  <img src="./assets/tech/numpy.svg" width="42" height="42" alt="NumPy" title="NumPy" />&nbsp;
+  <img src="./assets/tech/pandas.svg" width="42" height="42" alt="pandas" title="pandas" />&nbsp;
+  <img src="./assets/tech/colab.svg" width="42" height="42" alt="Google Colab" title="Google Colab" />&nbsp;
+  <img src="./assets/tech/matplotlib.svg" width="42" height="42" alt="Matplotlib" title="Matplotlib" />&nbsp;
+  <img src="./assets/tech/qdrant.svg" width="42" height="42" alt="Qdrant" title="Qdrant" />&nbsp;
+  <img src="./assets/tech/javascript.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="./assets/tech/typescript.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="./assets/tech/react.svg" width="42" height="42" alt="React" title="React" />&nbsp;
+  <img src="./assets/tech/nextjs.svg" width="42" height="42" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="./assets/tech/sass.svg" width="42" height="42" alt="SCSS" title="SCSS" />&nbsp;
+  <img src="./assets/tech/bootstrap.svg" width="42" height="42" alt="Bootstrap" title="Bootstrap" />&nbsp;
+  <img src="./assets/tech/nodejs.svg" width="42" height="42" alt="Node.js" title="Node.js" />&nbsp;
+  <img src="./assets/tech/nestjs.svg" width="42" height="42" alt="NestJS" title="NestJS" />&nbsp;
+  <img src="./assets/tech/graphql.svg" width="42" height="42" alt="GraphQL" title="GraphQL" />&nbsp;
+  <img src="./assets/tech/apollo.svg" width="42" height="42" alt="Apollo GraphQL / Apollo Client" title="Apollo GraphQL / Apollo Client" />&nbsp;
+  <img src="./assets/tech/mongodb.svg" width="42" height="42" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="./assets/tech/yarn.svg" width="42" height="42" alt="Yarn" title="Yarn" />&nbsp;
+  <img src="./assets/tech/git.svg" width="42" height="42" alt="Git" title="Git" />&nbsp;
+  <img src="./assets/tech/github-actions.svg" width="42" height="42" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
+  <img src="./assets/tech/figma.svg" width="42" height="42" alt="Figma" title="Figma" />&nbsp;
+  <img src="./assets/tech/aws.svg" width="42" height="42" alt="AWS" title="AWS" />&nbsp;
+  <img src="./assets/tech/lightsail.png" width="42" height="42" alt="Amazon Lightsail" title="Amazon Lightsail" />&nbsp;
+</p>
 
-![React](https://img.shields.io/badge/React-EFE6F8?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-EFE6F8?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-EFE6F8?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-EFE6F8?style=flat-square&logo=javascript)
-![SCSS](https://img.shields.io/badge/SCSS-EFE6F8?style=flat-square&logo=sass)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-EFE6F8?style=flat-square&logo=bootstrap)
-
-**Backend**
-
-![REST API](https://img.shields.io/badge/REST_API-F5E8EF?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-F5E8EF?style=flat-square&logo=nodedotjs)
-![NestJS](https://img.shields.io/badge/NestJS-F5E8EF?style=flat-square&logo=nestjs)
-![GraphQL](https://img.shields.io/badge/GraphQL-F5E8EF?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-F5E8EF?style=flat-square&logo=apollographql)
-![MongoDB](https://img.shields.io/badge/MongoDB-F5E8EF?style=flat-square&logo=mongodb)
-
-**AI & Data**
-
-![Python](https://img.shields.io/badge/Python-EAEAF9?style=flat-square&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-EAEAF9?style=flat-square&logo=pytorch)
-![NumPy](https://img.shields.io/badge/NumPy-EAEAF9?style=flat-square&logo=numpy)
-![pandas](https://img.shields.io/badge/pandas-EAEAF9?style=flat-square&logo=pandas)
-![Google Colab](https://img.shields.io/badge/Google_Colab-EAEAF9?style=flat-square&logo=googlecolab)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-EAEAF9?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-EAEAF9?style=flat-square&logo=qdrant)
-
-**Also in my toolkit**
-
-![Apollo Client](https://img.shields.io/badge/Apollo_Client-F0EDF4?style=flat-square&logo=apollographql)
-![Yarn](https://img.shields.io/badge/Yarn-F0EDF4?style=flat-square&logo=yarn)
-![Git](https://img.shields.io/badge/Git-F0EDF4?style=flat-square&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F0EDF4?style=flat-square&logo=githubactions)
-![Figma](https://img.shields.io/badge/Figma-F0EDF4?style=flat-square&logo=figma)
-![AWS](https://img.shields.io/badge/AWS-F0EDF4?style=flat-square)
-![Amazon Lightsail](https://img.shields.io/badge/Amazon_Lightsail-F0EDF4?style=flat-square)
+<sub>REST API</sub>
 
 ### 03 &nbsp; Beyond the code 🌷
 

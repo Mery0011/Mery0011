@@ -49,8 +49,8 @@ def render_quote(day):
   <metadata>Asia/Seoul date: {day.isoformat()}. Original thoughts, rotating daily.</metadata>
   <defs>
     <linearGradient id="lavender" x2="1" y2="0">
-      <stop stop-color="#f1e8fb"/>
-      <stop offset="1" stop-color="#fbf0f5"/>
+      <stop stop-color="#faf9fc"/>
+      <stop offset="1" stop-color="#f6f3fa"/>
     </linearGradient>
   </defs>
   <rect width="850" height="82" rx="8" fill="url(#lavender)"/>

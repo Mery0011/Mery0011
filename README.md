@@ -14,39 +14,39 @@ I’m open to collaborating on web and AI projects where I can contribute, solve
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-EFE6F8?style=flat-square&logo=react&logoColor=684A82)
-![Next.js](https://img.shields.io/badge/Next.js-EFE6F8?style=flat-square&logo=nextdotjs&logoColor=684A82)
-![TypeScript](https://img.shields.io/badge/TypeScript-EFE6F8?style=flat-square&logo=typescript&logoColor=684A82)
-![JavaScript](https://img.shields.io/badge/JavaScript-EFE6F8?style=flat-square&logo=javascript&logoColor=684A82)
-![SCSS](https://img.shields.io/badge/SCSS-EFE6F8?style=flat-square&logo=sass&logoColor=684A82)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-EFE6F8?style=flat-square&logo=bootstrap&logoColor=684A82)
+![React](https://img.shields.io/badge/React-EFE6F8?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-EFE6F8?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-EFE6F8?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-EFE6F8?style=flat-square&logo=javascript)
+![SCSS](https://img.shields.io/badge/SCSS-EFE6F8?style=flat-square&logo=sass)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-EFE6F8?style=flat-square&logo=bootstrap)
 
 **Backend**
 
-![REST API](https://img.shields.io/badge/REST_API-F5E8EF?style=flat-square&logoColor=89526E)
-![Node.js](https://img.shields.io/badge/Node.js-F5E8EF?style=flat-square&logo=nodedotjs&logoColor=89526E)
-![NestJS](https://img.shields.io/badge/NestJS-F5E8EF?style=flat-square&logo=nestjs&logoColor=89526E)
-![GraphQL](https://img.shields.io/badge/GraphQL-F5E8EF?style=flat-square&logo=graphql&logoColor=89526E)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-F5E8EF?style=flat-square&logo=apollographql&logoColor=89526E)
-![MongoDB](https://img.shields.io/badge/MongoDB-F5E8EF?style=flat-square&logo=mongodb&logoColor=89526E)
+![REST API](https://img.shields.io/badge/REST_API-F5E8EF?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-F5E8EF?style=flat-square&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/NestJS-F5E8EF?style=flat-square&logo=nestjs)
+![GraphQL](https://img.shields.io/badge/GraphQL-F5E8EF?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-F5E8EF?style=flat-square&logo=apollographql)
+![MongoDB](https://img.shields.io/badge/MongoDB-F5E8EF?style=flat-square&logo=mongodb)
 
 **AI & Data**
 
-![Python](https://img.shields.io/badge/Python-EAEAF9?style=flat-square&logo=python&logoColor=59588B)
-![PyTorch](https://img.shields.io/badge/PyTorch-EAEAF9?style=flat-square&logo=pytorch&logoColor=59588B)
-![NumPy](https://img.shields.io/badge/NumPy-EAEAF9?style=flat-square&logo=numpy&logoColor=59588B)
-![pandas](https://img.shields.io/badge/pandas-EAEAF9?style=flat-square&logo=pandas&logoColor=59588B)
-![Google Colab](https://img.shields.io/badge/Google_Colab-EAEAF9?style=flat-square&logo=googlecolab&logoColor=59588B)
+![Python](https://img.shields.io/badge/Python-EAEAF9?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-EAEAF9?style=flat-square&logo=pytorch)
+![NumPy](https://img.shields.io/badge/NumPy-EAEAF9?style=flat-square&logo=numpy)
+![pandas](https://img.shields.io/badge/pandas-EAEAF9?style=flat-square&logo=pandas)
+![Google Colab](https://img.shields.io/badge/Google_Colab-EAEAF9?style=flat-square&logo=googlecolab)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-EAEAF9?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-EAEAF9?style=flat-square&logo=qdrant&logoColor=59588B)
+![Qdrant](https://img.shields.io/badge/Qdrant-EAEAF9?style=flat-square&logo=qdrant)
 
 **Also in my toolkit**
 
-![Apollo Client](https://img.shields.io/badge/Apollo_Client-F0EDF4?style=flat-square&logo=apollographql&logoColor=71627F)
-![Yarn](https://img.shields.io/badge/Yarn-F0EDF4?style=flat-square&logo=yarn&logoColor=71627F)
-![Git](https://img.shields.io/badge/Git-F0EDF4?style=flat-square&logo=git&logoColor=71627F)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F0EDF4?style=flat-square&logo=githubactions&logoColor=71627F)
-![Figma](https://img.shields.io/badge/Figma-F0EDF4?style=flat-square&logo=figma&logoColor=71627F)
+![Apollo Client](https://img.shields.io/badge/Apollo_Client-F0EDF4?style=flat-square&logo=apollographql)
+![Yarn](https://img.shields.io/badge/Yarn-F0EDF4?style=flat-square&logo=yarn)
+![Git](https://img.shields.io/badge/Git-F0EDF4?style=flat-square&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F0EDF4?style=flat-square&logo=githubactions)
+![Figma](https://img.shields.io/badge/Figma-F0EDF4?style=flat-square&logo=figma)
 ![AWS](https://img.shields.io/badge/AWS-F0EDF4?style=flat-square)
 ![Amazon Lightsail](https://img.shields.io/badge/Amazon_Lightsail-F0EDF4?style=flat-square)
 
